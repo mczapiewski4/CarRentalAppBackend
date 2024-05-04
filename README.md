@@ -1,19 +1,19 @@
 # Car Rental Service
 
-Project Features:
+## Project Features:
 
-Admin Functions:
+## Admin Functions:
 
-CRUD Operations for Cars: Create, Read, Update and Delete car listings, giving you full control over your rental cars.
-Advanced Car Search: Advanced search functionality to help users find the best offer.
-Booking Request Management: Admin can handle booking requests, including reviewing and changing the status of requests, such as approving or rejecting them.
+* CRUD Operations for Cars: Create, Read, Update and Delete car listings, giving you full control over your rental cars.
+* Advanced Car Search: Advanced search functionality to help users find the best offer.
+* Booking Request Management: Admin can handle booking requests, including reviewing and changing the status of requests, such as approving or rejecting them.
 
-Customer Functions:
+## Customer Functions:
 
-Browsing Car Listings: Customers can explore a list of available cars, making it easy to find their ideal rental vehicle.
-Advanced Car Search: Advanced search function to help customers narrow down their choices.
-Booking Car Requests: Customers can submit requests to book cars for specific dates and times.
-Viewing Past Bookings: Customers can see their history of past booking requests.
+* Browsing Car Listings: Customers can explore a list of available cars, making it easy to find their ideal rental vehicle.
+* Advanced Car Search: Advanced search function to help customers narrow down their choices.
+* Booking Car Requests: Customers can submit requests to book cars for specific dates and times.
+* Viewing Past Bookings: Customers can see their history of past booking requests.
 
 ![01signup](https://github.com/mczapiewski4/Simple-CRUD-Project/assets/104552288/a399340c-4c18-4314-aca3-cdcdb905043a)
 
